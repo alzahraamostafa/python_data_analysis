@@ -6,5 +6,6 @@ Used libraries:
 2. matplotlib
    
 Describtion for the dataset:
-It's a datasets theat collects some of the data jobs around the world providing their location, salary, date posted, etc
+
+It's a datasets that collects some of the data jobs around the world providing their location, salary, date posted, etc
 here is a link to the dataset 'https://huggingface.co/datasets/lukebarousse/data_jobs/tree/main'
